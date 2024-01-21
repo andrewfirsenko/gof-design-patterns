@@ -1,12 +1,16 @@
-# Grand of Four design patterns
+# Шаблоны проектирования GoF
 
-### Creational
-* ~Abstract factory~
-* ~Builder~
-* [Factory](Creational/Factory.md)
-* ~Prototype~
-* ~Singleton~
+### Creational (Порождающие)
+* Abstract Factory (Абстрактная фабрика)
+* Builder (Строитель)
+* [Factory Method (Фабричный метод)](Creational/FactoryMethod.md)
+  
+  > Определяет интерфейс для создания объекта, но оставляет подклассам решение о том, какой класс инстанцировать. Фабричный метод позволяет классу делегировать инстанцирование подклассам
+  
+* Prototype (Прототип)
+* Singleton (Одиночка)
+* Object Pool (Пул обьектов)
 
-### ~Structural~
+### Structural (Структурные)
 
-### ~Behavioral~
+### Behavioral (Поведенчиские)
