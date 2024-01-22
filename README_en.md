@@ -1,3 +1,4 @@
+[Русский](README.md) 👈
 # Grand of Four design patterns
 
 ### Creational
