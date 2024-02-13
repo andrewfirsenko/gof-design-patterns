@@ -1,4 +1,5 @@
-# Grand of Four design patterns
+[Русский](README.md) 👈
+# Gang of Four design patterns
 
 ### Creational
 * Abstract Factory
