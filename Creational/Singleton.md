@@ -9,6 +9,8 @@ Singleton полезен, когда нам необходимо чтобы бы
 
 **Как выглядит:**
 
+<img src="../Images/Singleton.webp" width="80%">
+
 **Пример:**
 
 ```swift
